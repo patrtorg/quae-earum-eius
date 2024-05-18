@@ -25,10 +25,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@dramaorg/esse-praesentium-eligendi@^2.2.12":
-  version "2.2.12"
-  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.12.tgz#a4e653e541cf89d31e126d754176101b1769ed83"
-  integrity sha512-7Rs7hJQNaKAcUy8iFjyRQ9nEFVW3u00CWBOoT2GT/pfcmu/gKUqK4wjO+yY24xRoUXavdk9jKdBNeursk7XenA==
+"@dramaorg/esse-praesentium-eligendi@^2.2.13":
+  version "2.2.13"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.13.tgz#8137cf2ce2f398527f5275aec045051fef116bf2"
+  integrity sha512-IdWu9VriAEzqKRCGsVi0dcQsu+G58d83kNyKMkDbkx9CqUxYT91yukBTbbtKMfOJ3LupwbKoSfWy7fXvquiRRw==
   dependencies:
     "@dramaorg/psychic-couscous" "^1.1.5"
     "@dramaorg/shiny-waddle" "^1.1.4"
@@ -143,10 +143,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@juigorg/sit-nam-neque@^1.0.14":
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.14.tgz#1fa0fbba20b93d47cc82d78dd2f24520e388280c"
-  integrity sha512-ZdYb4pnBIFNmFp0TwabcQqTyl9TFoQktolZ+QAGMDd3LnY5SRcNMhXmVX6d4B7k46uw1ftOURgfikiMywArClw==
+"@juigorg/sit-nam-neque@^1.0.15":
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.15.tgz#f744bf58e603f52d9f78a1b4caa005103bed952c"
+  integrity sha512-WwvjGzAs19dgn547WpUIRmpD0WFNEKogddl41USj/5+14OG5Z7yeKk8CLxhrnwkwyhiQmVrn0NF1QhnVWOdbEQ==
   dependencies:
     "@juigorg/congenial-barnacle" "^2.2.5"
     "@juigorg/didactic" "^1.1.7"
@@ -1005,10 +1005,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@zitterorg/aspernatur-pariatur-occaecati@^5.2.9":
-  version "5.2.9"
-  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-5.2.9.tgz#7de639a0e78521f6e1588b65c10ea10906fe0799"
-  integrity sha512-aCm+8oQe4RpoSaeJ04SHUjXhSPmGIOmnbTsaKoej43cvM+G8Y/362oIgAvXxXOve4Vz/FHTvPR8kvv7lCHD2ZA==
+"@zitterorg/aspernatur-pariatur-occaecati@^5.2.10":
+  version "5.2.10"
+  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-5.2.10.tgz#62090dd84fc51b78ffb88002b00134db670d83b4"
+  integrity sha512-H+i0MoWbu1fQ7/GGGv+NstIFyCn27GA5+H+yX+DjVDC51G1b+xLFCK306Qwi59LXF8X7Py6ouRZxaEJ7W/wIEg==
   dependencies:
     "@zitterorg/fluffy-waddle" "^2.3.4"
     "@zitterorg/glowing-barnacle" "^1.1.3"
